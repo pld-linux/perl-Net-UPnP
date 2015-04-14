@@ -7,12 +7,12 @@
 %include	/usr/lib/rpm/macros.perl
 Summary:	Net::UPnP - Perl extension for UPnP
 Name:		perl-Net-UPnP
-Version:	1.4.2
+Version:	1.4.3
 Release:	1
 License:	BSD
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Net/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	bc009fd76b565df40a70aca49af82a7d
+# Source0-md5:	a30d7cc54290946aeb028650cfdc9279
 URL:		http://search.cpan.org/dist/Net-UPnP/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
