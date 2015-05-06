@@ -8,7 +8,7 @@
 Summary:	Net::UPnP - Perl extension for UPnP
 Name:		perl-Net-UPnP
 Version:	1.4.3
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Net/%{pdir}-%{pnam}-%{version}.tar.gz
