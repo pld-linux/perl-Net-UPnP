@@ -4,7 +4,6 @@
 #
 %define		pdir	Net
 %define		pnam	UPnP
-%include	/usr/lib/rpm/macros.perl
 Summary:	Net::UPnP - Perl extension for UPnP
 Name:		perl-Net-UPnP
 Version:	1.4.3
